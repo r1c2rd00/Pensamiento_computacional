@@ -45,7 +45,9 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
-      TU RESPUESTA AQUI
+     X == 30  "BONO"
+     X == 28  "SUSPENSION"
+     X < 28   "BAJA" 
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
@@ -53,7 +55,12 @@ resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
 
-      TU RESPUESTA AQUI
+      C > D
+      E < F
+      G < E
+      D > F
+      
+      G < 
 
 3^2 – (10/(8-4))+9 > 100 
 
