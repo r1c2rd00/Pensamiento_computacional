@@ -64,12 +64,15 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 3^2 – (10/(8-4))+9 > 100 
 
-      TU RESPUESTA AQUI
+      1 - (10/4) + 9 > 100
+      1 - 2.5 + 9 > 100
+      7.5 > 100
+      FALSO
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) =      VERDADERO
+2) (6! =6) && (12>22)) =     FALSO
+3) ¬ (128<145 && 12>9) =     FALSO
+4) “Daniela”< >”DANIELA” =   VERDADERO
+5) 10*20< >210 =             VERDADERO
