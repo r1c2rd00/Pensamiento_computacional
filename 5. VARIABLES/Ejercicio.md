@@ -56,6 +56,9 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
       4  ASIGNAR NOMBRE
       5  MOSTRAR "HOLA ", NOMBRE
       6  FIN
+      
+   ![image](https://user-images.githubusercontent.com/107652894/192121881-8447080a-828a-48bf-b80d-df9b294b9c8b.png)
+
 
 ## EJERCICIO 3
 
