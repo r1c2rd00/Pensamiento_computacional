@@ -68,8 +68,10 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
       2  DECLARAR [KM_MOTO(FLOAT), LT_COMBUSTIBLE (FLOAT)]
       3  MOSTRAR "INGRESA KILOMETROS RECORRIDOS EN MOTOCICLETA"
       4  ASIGNAR KM_MOTO
-      5  LT_COMBUSTIBLE=KM_MOTO/20.8
+      5  LT_COMBUSTIBLE=KM_MOTO*20.8
       6  MOSTRAR "LA CANTIDAD CONSUMIDA DE COMBUSTIBLE FUE ", LT_COMBUSTIBLE, " LITROS"
       7  FIN
+
+![image](https://user-images.githubusercontent.com/107652894/192122117-39449d3f-0856-4358-8c1a-d965041def5c.png)
 
 Ahora llevalos a PSINT
