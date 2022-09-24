@@ -43,6 +43,8 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
     14  MOSTRAR "EL ALUMNO ", NOMBRE, " OBTUVO UN PROMEDIO DE ", PROMEDIO
     15  FIN
       
+      ![image](https://user-images.githubusercontent.com/107652894/192121748-c985ec2d-316d-4285-9cc0-7c4aa80bf678.png)
+
       
 ## EJERCICIO 3
 
